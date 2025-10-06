@@ -1,0 +1,11 @@
+# Ignore build folders inside all services
+*/target/
+
+# Ignore IDE-specific files in all services
+*/.idea/
+*/.iml
+
+# Ignore environment/config files in all services
+*/.env
+*/application.properties
+*/application.yml
